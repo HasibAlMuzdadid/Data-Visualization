@@ -14,5 +14,7 @@ Email: muzdadid@gmail.com
 ## Description :
 All my learnings from [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course offered by [IBM](https://www.ibm.com) on [coursera](https://www.coursera.org) which is also a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) are reflected here.
 
+
 **Language used :** Python <br/>
-**Development Tools :** Jupyter Notebook
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
+**Platform :** [Skills Network Labs](https://labs.cognitiveclass.ai/)
