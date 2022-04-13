@@ -7,15 +7,25 @@
 
 **Author :** </br>
 Hasib Al Muzdadid</br>
-Department of Computer Science & Engineering, </br>
-Rajshahi University of Engineering & Technology (RUET) </br>
+[Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), </br>
+[Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Email: muzdadid@gmail.com
 
 ## Description :
-All my learnings from [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course offered by [IBM](https://www.ibm.com) on [coursera](https://www.coursera.org) which is also a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) are reflected here.
+All my learnings from [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course offered by [IBM](https://www.ibm.com) on [Coursera](https://www.coursera.org) which is also a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) are reflected here.
 
-**Certificates :**
-[Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/2TH3LZZ3PGGW) </br>
+
+
+
 **Language used :** Python <br/>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
 **Platform :** [Skills Network Labs](https://labs.cognitiveclass.ai/)
+
+
+**Accomplishments :**
+Course  | Achievement
+:-------------: | :-------------:
+[Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2TH3LZZ3PGGW)
+[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)  | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/F5XBRFLU47Y5)
+
+
